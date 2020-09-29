@@ -1,0 +1,47 @@
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel1.resources
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Meniu.resources
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+C:\Users\gabi_\Desktop\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel2.resources
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel1.resources
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Meniu.resources
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel2.resources
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache
+C:\Users\gabi_\Dropbox\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Xsi0.resources
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel1.resources
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Meniu.resources
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel2.resources
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Xsi0.resources
+C:\Users\gabi_\Dropbox\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel1.resources
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Meniu.resources
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Nivel2.resources
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Xsi0.resources
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+C:\Users\gabi_\Desktop\Proiect atestat informatica Olariu Gabriel\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
